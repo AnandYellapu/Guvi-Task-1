@@ -1,0 +1,28 @@
+# What is the difference between Statically typed and Dynamically typed?
+
+Ans:(1).Statically type:Statically typed programming languages do type checking at compile-time.
+                          Example:C,C++,Java,Rust,Scala etc..,
+        
+     (2).Dynamically type:Dynamically typed programming language do type checking at run-time.
+                          Example:Ruby,Python,Javascript etc..,
+                          
+                          
+# What Scripting-Language vs Programming Language
+
+  <>Programming-Language:(1):A programming language is a computer language that is used to communicate with computers using a set of instructions.
+                        (2):It is compiled language or compiler-based language.
+                        (3):It is used to develop an application or software.
+                        (4):It runs or executes independently and does not depend on parent program.
+                        (5):It uses a complier to convert source code into machine code.
+                        (6):Examples:C,C++,Java etc..,
+                        
+                        
+  <>Scripting-Language:(1):A scripting language is a type of programming language designed for a runtime system to automate the execution of tasks.
+                       (2):It is interpreted language or interpreter-based language
+                       (3):It is used to combine existing components and automate a specific task.
+                       (4):It runs or executes inside another program.
+                       (5):It uses an interpreter to convert source code into machine code.
+                       (6):Examples:Ruby,Python,Javascript et..,
+                       
+                      
+                      
